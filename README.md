@@ -1,2 +1,0 @@
-# Mambo
-Mambo pagina
